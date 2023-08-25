@@ -24,7 +24,7 @@ The project done by couple of students which want to get high cvaification in th
 <br>
 <a href="https://www.instagram.com/andymagwayer/">AndyMagwayer</a> and also other colabs <a href="https://www.instagram.com/orifjohn_/">@John</a> 
 <br>
-<a href="https://t.me/SAAHRO">Saahro</a> and also our teacher <a href="https://www.instagram.com/alisheyx_life/">@</a> 
+<a href="https://t.me/SAAHRO">Saahro</a> and also our teacher <a href="https://www.instagram.com/alisheyx_life/">@AliSheyx-life</a> 
 
 
 ## Astro Starter Kit: Basics
