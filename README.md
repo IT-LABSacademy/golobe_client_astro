@@ -1,5 +1,5 @@
 # Our first generall team work
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Project Screen](https://github.com/IT-LABSacademy/golobe_client_astro/blob/maga/Landing%20Page%202.jpg)
 
 ## Deploy:
 
