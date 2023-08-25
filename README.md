@@ -1,4 +1,30 @@
-# Astro Starter Kit: Basics
+# Our first generall team work
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+
+## Deploy:
+
+
+You can get a Genius discount at Live & Travel Apartments Number 1! To save on this property, just sign in.
+
+Located in Gdańsk in the Pomeranian region, with Green Gate and Long Bridge nearby, Live & Travel Apartments Number 1 features accommodation with free WiFi. It offers free Wi-Fi and free private parking.
+
+All rooms have a wardrobe, a kitchen with a dishwasher and a refrigerator, and a living room with a sofa. Standard amenities include ironing facilities, a hooded TV and a sofa. There is a fully equipped bathroom with a shower and a hairdryer.
+
+<br>
+Activities in the surrounding area include hiking, cycling and fishing.
+
+Popular points of interest near Live & Travel Apartments Number 1 include Neptune's Fountain, Long Market Square and Main Town Hall. Gdansk Lech Walesa Airport is 17 km away. An airport shuttle service is available at an additional cost.
+
+This is our guests' favorite part of Gdansk, according to independent reviews.
+
+Couples especially like the location - they rated accommodation in the area for a couple trip at 9.5.
+
+## About
+The project done by couple of students which want to get high cvaification in the IT science indusry:
+@AndyMagwayer, @Saahro, 
+
+
+## Astro Starter Kit: Basics
 
 ```
 npm create astro@latest -- --template basics
