@@ -2,6 +2,7 @@
 ![Project Screen](https://github.com/IT-LABSacademy/golobe_client_astro/blob/maga/Landing%20Page%202.jpg)
 
 ## Deploy:
+https://golobe-client-astro.netlify.app/
 
 
 You can get a Genius discount at Live & Travel Apartments Number 1! To save on this property, just sign in.
